@@ -12,37 +12,11 @@ eLibrary is a comprehensive library management system designed to streamline the
 - Quick access to common tasks
 - Summary of overdue books and upcoming due dates
 
-
-### Reader Management
-
-- Add, edit, and delete reader profiles
-- Track reader membership status
-- View reader borrowing history
-- Detailed reader information including contact details
-
-
 ### Book Management
 
 - Catalog books with detailed information
 - Track book availability status
 - Categorize books by author, genre, and tags
-
-
-### Borrowing and Return System
-
-- Process book checkouts and returns
-- Track due dates
-- Record borrowing history
-
-
-### Email Notification System
-
-- Automated due date reminders
-- Overdue notifications
-- Customizable notification templates
-- Preview email notifications before sending
-- Track notification status
-
 
 ### Settings
 
